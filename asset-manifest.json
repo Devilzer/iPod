@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/iPod/static/css/main.bbf994ff.chunk.css",
+    "main.js": "/iPod/static/js/main.96012d8f.chunk.js",
+    "main.js.map": "/iPod/static/js/main.96012d8f.chunk.js.map",
+    "runtime-main.js": "/iPod/static/js/runtime-main.3a9395a1.js",
+    "runtime-main.js.map": "/iPod/static/js/runtime-main.3a9395a1.js.map",
+    "static/js/2.dbb32e76.chunk.js": "/iPod/static/js/2.dbb32e76.chunk.js",
+    "static/js/2.dbb32e76.chunk.js.map": "/iPod/static/js/2.dbb32e76.chunk.js.map",
+    "index.html": "/iPod/index.html",
+    "precache-manifest.2a281ab4864bbd70177b79d0bfc2a5ae.js": "/iPod/precache-manifest.2a281ab4864bbd70177b79d0bfc2a5ae.js",
+    "service-worker.js": "/iPod/service-worker.js",
+    "static/css/main.bbf994ff.chunk.css.map": "/iPod/static/css/main.bbf994ff.chunk.css.map",
+    "static/js/2.dbb32e76.chunk.js.LICENSE.txt": "/iPod/static/js/2.dbb32e76.chunk.js.LICENSE.txt",
+    "static/media/BadGuy.webm": "/iPod/static/media/BadGuy.96f97a14.webm",
+    "static/media/COSTA RICA IN 4K 60fps HDR (ULTRA HD).mp4": "/iPod/static/media/COSTA RICA IN 4K 60fps HDR (ULTRA HD).26e431fd.mp4",
+    "static/media/I_will_be_there_for_you.webm": "/iPod/static/media/I_will_be_there_for_you.231d481e.webm",
+    "static/media/Khairiyat.webm": "/iPod/static/media/Khairiyat.f9e1bda1.webm",
+    "static/media/Kun_Faya_Kun.webm": "/iPod/static/media/Kun_Faya_Kun.d1f088c3.webm",
+    "static/media/Laembadgini.webm": "/iPod/static/media/Laembadgini.1c94413d.webm"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a9395a1.js",
+    "static/js/2.dbb32e76.chunk.js",
+    "static/css/main.bbf994ff.chunk.css",
+    "static/js/main.96012d8f.chunk.js"
+  ]
+}
